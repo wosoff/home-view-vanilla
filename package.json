@@ -1,0 +1,20 @@
+{
+  "name": "home-view-vanilla",
+  "version": "1.0.0",
+  "description": "It is source to home view of portfolio, that is written by vanilla script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wosoff/home-view-vanilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wosoff/home-view-vanilla/issues"
+  },
+  "homepage": "https://github.com/wosoff/home-view-vanilla#readme"
+}
